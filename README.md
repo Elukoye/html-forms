@@ -1,2 +1,2 @@
-# html-forms
-Data Input- project 2
+# HTML Forms
+HTML Forms project for Microverse's HTML & CSS3 Course.
