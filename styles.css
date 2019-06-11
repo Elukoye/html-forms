@@ -28,7 +28,7 @@ a:hover {
 
 /* **************************************** css grid */
 
-.container {
+main{
   display: grid;
   grid-template-areas:
     'nav nav nav'
