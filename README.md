@@ -7,6 +7,6 @@
 ### Project Goal
 Build a copy of Intuit's [sign-up](https://accounts.intuit.com/signup.html) page.
 ### Live Site
-[https://michael-mcgee.github.io/youtube-video-player]()
+[https://elukoye.github.io/html-forms](https://elukoye.github.io/html-forms/)
 
 This project was completed as part of the [Microverse](https://www.microverse.org/) curriculum.
